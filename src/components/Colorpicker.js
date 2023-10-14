@@ -25,7 +25,7 @@ function Colorpicker({colors}){
             </div>)}
         </div>)}
         <button onClick={pick}style={{backgroundColor:color,position:'fixed',
-        top:300,color:'white',border:'none',right:'46%',padding:6}}>
+        top:300,color:'white',border:'none',right:'46.3%',padding:6}}>
             Pick a color</button>
       </div>
       
